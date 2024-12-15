@@ -1,0 +1,9 @@
+{
+  "root": "dist",
+  "routes": [
+    {
+      "source": "/fulfillment/*",
+      "destination": "/index.html"
+    }
+  ]
+}
