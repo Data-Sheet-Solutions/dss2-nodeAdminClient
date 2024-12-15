@@ -2,7 +2,7 @@
   "root": "dist",
   "routes": [
     {
-      "source": "/fulfillment/*",
+      "source": "/*",
       "destination": "/index.html"
     }
   ]

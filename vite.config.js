@@ -5,7 +5,7 @@ import path from 'path';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/fulfillment/',
+  base: '/',
   server: {
     port: 3009,
     open: true, // This will open the browser automatically
